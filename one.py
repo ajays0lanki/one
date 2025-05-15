@@ -4,4 +4,4 @@
 # - Setting up PM2 for application monitoring
 # - Auto-restarting Node.js apps on crashes
 # - Monitoring performance with PM2 logs and stats
-# - Log rotations\'
+# - Log rotations\'cd 
